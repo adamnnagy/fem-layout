@@ -22,19 +22,17 @@ li {
   flex: 0 0 100%;
 }
 img { 
-	max-width: 100%;
+	width: 100%;
 }
 @media (min-width: 550px) {
   li {
     flex: 0 0 49%;
-	max-width: 50%;
   }
   
 }
 @media (min-width: 850px) {
   li {
     flex: 0 0 33%;
-	max-width: 33%;
   }
  
 }
